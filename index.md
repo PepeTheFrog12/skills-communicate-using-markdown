@@ -8,4 +8,10 @@
 print('Heyyoooooo this is a markdownnnnnnn)'
 ```
 
+- [X] Hacer lista de pendientes
+- [X] Comprar Cafe
+- [ ] Moler Cafe 
+- [ ] Limpiar Ventana
+
+
 Headings test
